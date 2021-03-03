@@ -1,5 +1,7 @@
 # midserve - a CLI tool to serve files and dirs over HTTP/s
 
+[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hellodword/midserve/blob/main/LICENSE)
+
 **For when you really just want to serve some files over HTTP/s right now!**
 
 **midserve** is a ~~small~~ (not that small), self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP/s.
